@@ -1,1 +1,10 @@
-idk what this does. i'll clean this up eventually. as of now i stil have no idea how everything works
+<html>
+  
+  <body>
+  
+  <h1>ABOUT</h1>
+  <hr>
+  Here is soe information about me. It will be here eventually.
+  
+  </body>
+  </html>
