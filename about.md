@@ -8,9 +8,10 @@
   
   <body>
   
-  <h1>ABOUT</h1>
+  <h1 class="center">ABOUT</h1>
   <hr>
-  Here is some information about me. It will be here eventually.
+  <p class="center">Here is some information about me. It will be here eventually.
+  </p>
   
   </body>
   </html>
