@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-
-<style type="text/css">
-	.center { text-align:center; }
-</style>
+<html>
 
 <body>
 	<h1 class="center">PLACEHOLDER TITLE</h1>
