@@ -7,9 +7,9 @@
   </head>
 
 <body>
-<h1>CONTACT</h1>
+<h1 class="center">CONTACT</h1>
 <hr>
-My contact information as well as my social media can be found here.
+<p class="center">My contact information as well as my social media can be found here.
   
 <hr>
 
@@ -27,6 +27,8 @@ My contact information as well as my social media can be found here.
 </ul>  
 
 <hr>
+
+</p>
 
 
 </body>
