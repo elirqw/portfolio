@@ -1,4 +1,11 @@
-<html>
+<!DOCTYPE html>
+
+<head>
+<style type="text/css">
+	.center { text-align:center; }
+</style>
+</head>
+	
 
 <body>
 	<h1 class="center">PLACEHOLDER TITLE</h1>
