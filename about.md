@@ -1,5 +1,11 @@
 <html>
   
+  <head>
+  <style type="text/css">
+    .center { text-align:center; }
+  </style>
+  </head>
+  
   <body>
   
   <h1>ABOUT</h1>
