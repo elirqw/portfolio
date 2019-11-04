@@ -11,12 +11,21 @@
 <hr>
 My contact information as well as my social media can be found here.
   
-<p><h3>FIND ME ELSEWHERE</h3></p>
+<hr>
+
+<p><h4>CONTACT</h4></p>
+<ul>
+  <li>Email</li>
+
+  
+<p><h4>FIND ME ELSEWHERE</h4></p>
 <ul>
   <li>ArtStation</li>
   <li>Instagram</li>
   <li>Twitter</li>
 </ul>  
+
+<hr>
 
 
 </body>
