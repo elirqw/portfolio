@@ -14,6 +14,12 @@
 	</p>
 <hr>	
 	
+	
+	
+	
+	
+	
+	
 	  <head>
   <style type="text/css">
     .center { text-align:center; }
@@ -24,8 +30,6 @@
 <h1 class="center">CONTACT</h1>
 <hr>
 <p class="center">My contact information as well as my social media can be found here.
-  
-<hr>
 
 <p><h4>CONTACT</h4></p>
 <ul>
