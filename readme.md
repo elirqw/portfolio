@@ -14,7 +14,8 @@
 	</p>
 <hr>	
 	
-	
+Kuvaa tähän...
+<img src"https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"/>
 	
 	
 	
@@ -40,8 +41,8 @@
 <p><h4>FIND ME ELSEWHERE</h4></p>
 <ul>
   <li><b>ArtStation:</b> https://www.artstation.com/elisaaho</li>
-  <li>Instagram</li>
-  <li>Twitter</li>
+  <li><b>Instagram</b></li>
+  <li><b>Twitter</b></li>
 </ul>  
 
 <hr>
