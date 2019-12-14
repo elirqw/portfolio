@@ -15,7 +15,8 @@
 <hr>	
 	
 Kuvaa tähän...
-<img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"width="50%"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"
+width="50%"/>
 	
 	
 	
