@@ -16,8 +16,8 @@
 	
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"
 width="50%"/>
-img src"https://cdnb.artstation.com/p/assets/images/images/014/328/891/large/elisa-aho-releaseyourdemons2signed.jpg?1543508911"
-width="50%"/><br/>
+img src="https://cdnb.artstation.com/p/assets/images/images/014/328/891/large/elisa-aho-releaseyourdemons2signed.jpg?1543508911"
+width="50%"/>
 <img scr="https://cdnb.artstation.com/p/assets/images/images/014/329/293/large/elisa-aho-swordsv3-signed.jpg?1543510219"
 width="50%"/>
 	
