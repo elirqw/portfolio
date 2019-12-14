@@ -29,13 +29,13 @@
 
 <p><h4>CONTACT</h4></p>
 <ul>
-  <li>Email</li>
+  <li>Email: elisa.aho9@hotmail.com</li>
 </ul>  
 
   
 <p><h4>FIND ME ELSEWHERE</h4></p>
 <ul>
-  <li>ArtStation</li>
+  <li><b>ArtStation:</b> https://www.artstation.com/elisaaho</li>
   <li>Instagram</li>
   <li>Twitter</li>
 </ul>  
