@@ -7,9 +7,7 @@
 </head>
 	
 
-<body>
-	
-	
+<body>	
 	<h1 class="center">PORTFOLIO THING OF ELISA AHO</h1>
 	<hr>
 	<p class="center">Hi :) This is my portfolio kind of thing. 
