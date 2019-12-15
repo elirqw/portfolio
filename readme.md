@@ -15,7 +15,7 @@
 	</p>
 <hr>	
 
-<p><h4>WORK</h4></p>
+<p><h1>WORK</h1></p>
 <hr>
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"
