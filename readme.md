@@ -86,7 +86,7 @@ We Are Here
 
 <hr>
 
-<imfsrc="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400" />
+<imgsrc="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400" />
 	
 
 
