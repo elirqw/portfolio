@@ -55,6 +55,14 @@ width="50%"/>
 
 <hr>
 
+<table>
+<tr><td>Program</td><td>Can I use it?</td></tr>
+<tr><td>Clip Studio Paint</td><td>Yes</td></tr>
+<tr><td>Photoshop</td><td>Yes</td></tr>
+<table>
+
+<hr>
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=27.50186920166016%2C64.15897999356237%2C27.95505523681641%2C64.29541976266103&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=12/64.2273/27.7285">Näytä isommalla kartalla</a></small>
 
 <hr>
