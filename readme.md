@@ -86,7 +86,22 @@ We Are Here
 
 <hr>
 
-<img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"/>
+<script>
+function permitdrop(event)
+{
+event.preventDefault();
+}
+function drag(event)
+{
+event.dataTransfer.setData("Text", event.target.id);
+}
+</script>
+
+<img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"/
+ongragstart="drag(event)"/>
+<br/>
+>
+<div ondragover="permitdrop(event)" style="background-color: black; width:250px;height:400px"></div>
 	
 
 
