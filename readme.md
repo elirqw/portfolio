@@ -10,7 +10,7 @@
 <body>
 	<h1 class="center">PORTFOLIO THING OF ELISA AHO</h1>
 	<hr>
-	<p class="center">Hi :) This is my portfolio kind of thing where I show off what I learned during this WWW course.
+	<p class="center">Hi :) This is my portfolio kind of thing. But really it's for showing off what I learned during our WWW course.
 	</p>
 <hr>	
 	
