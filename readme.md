@@ -76,7 +76,7 @@ Message: <input type="text" name="message" /><br/>
 
 <hr>
 
-<imgscr="brickwall.jpg"draggable="true"id="brickwall"width="250"height="400"/>
+<imgsrc="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"/>
 
 
 <h2>Merry Christmas everyone who visited this site</h2>
