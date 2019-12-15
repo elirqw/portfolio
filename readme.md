@@ -86,6 +86,8 @@ We Are Here
 
 <hr>
 
+Drag this wall for me
+
 <script>
 function drop(event)
 {
