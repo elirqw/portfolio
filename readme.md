@@ -68,7 +68,7 @@ width="50%"/>
 
 <hr>
 
-</p>
+
 <h2>Merry Christmas everyone who visited this site</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQsoY1__VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
