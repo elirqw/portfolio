@@ -87,6 +87,12 @@ We Are Here
 <hr>
 
 <script>
+function drop(event)
+{
+event.preventDefault();
+var data=event.dataTransfer.getData("Text");
+event.target.appendChild(document.getElementById(data));
+}
 function permitdrop(event)
 {
 event.preventDefault();
@@ -100,7 +106,6 @@ event.dataTransfer.setData("Text", event.target.id);
 <img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"
 ongragstart="drag(event)"/>
 <br/>
->
 <div ondragover="permitdrop(event)" style="background-color: black; width:250px;height:400px"></div>
 	
 
