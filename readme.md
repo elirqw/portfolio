@@ -7,7 +7,9 @@
 </head>
 	
 
-<body style="background-color:gray;">
+<body>
+	
+	
 	<h1 class="center">PORTFOLIO THING OF ELISA AHO</h1>
 	<hr>
 	<p class="center">Hi :) This is my portfolio kind of thing. 
@@ -19,11 +21,11 @@
 <hr>
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"
-width="50%"/>
+width="40%"/>
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/891/large/elisa-aho-releaseyourdemons2signed.jpg?1543508911"
-width="50%"/>
+width="40%"/>
 <img scr="https://cdnb.artstation.com/p/assets/images/images/014/329/293/large/elisa-aho-swordsv3-signed.jpg?1543510219"
-width="50%"/>
+width="40%"/>
 <hr>
 	
 	
