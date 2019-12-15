@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -64,13 +65,10 @@ width="50%"/>
 
 <hr>
 
-<form action="https://elirqw.github.io/portfolio/"
-method="post">
-Name:<input type="input"name="username"/>
-<br/><br>
-Message:<input type="input"name="message"/>
-<br/><br>
-<input type="submit"value="Click to submit"/>
+<form name="GreetingMessage" method="post" onsubmit="return ValidateForm()" >
+Name: <input type="text" name="name" /><br/>
+Message: <input type="text" name="message" /><br/>
+<input type="submit" value="Clikck to submit" />
 </form>	
 
 <hr>
