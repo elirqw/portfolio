@@ -44,8 +44,8 @@ width="50%"/>
 <p><h4>FIND ME ELSEWHERE</h4></p>
 <ul>
   <li><b>ArtStation:</b> https://www.artstation.com/elisaaho</li>
-  <li><b>Instagram</b></li>
-  <li><b>Twitter</b></li>
+  <li><b>Instagram:</b> @elirqwart</li>
+  
 </ul>  
 
 <hr>
