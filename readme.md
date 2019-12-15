@@ -66,9 +66,9 @@ width="50%"/>
 
 <form action="https://elirqw.github.io/portfolio/"
 method="post">
-Name: <input type="input"name="username"/>
+Name:<input type="input"name="username"/>
 <br/><br>
-Message: <input type="input"name="message"/>
+Message:<input type="input"name="message"/>
 <br/><br>
 <input type="submit"value="Click to submit"/>
 </form>	
