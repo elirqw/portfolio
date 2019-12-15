@@ -104,9 +104,9 @@ event.dataTransfer.setData("Text", event.target.id);
 </script>
 
 <img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"
-ongragstart="drag(event)"/>
+ondragstart="drag(event)"/>
 <br/>
-<div ondragover="permitdrop(event)" style="background-color: black; width:250px;height:400px"></div>
+<div ondragover="permitdrop(event) ondrop="drop(event)" style="background-color: black; width:250px;height:400px"></div>
 	
 
 
