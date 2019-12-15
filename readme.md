@@ -59,6 +59,7 @@ width="50%"/>
 <tr><td>Program</td><td>Can I use it?</td></tr>
 <tr><td>Clip Studio Paint</td><td>Yes</td></tr>
 <tr><td>Photoshop</td><td>Yes</td></tr>
+<tr><td>Illustrator</td><td>Maybe</td></tr>
 <table>
 
 <hr>
