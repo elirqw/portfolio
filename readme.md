@@ -97,7 +97,7 @@ event.dataTransfer.setData("Text", event.target.id);
 }
 </script>
 
-<img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"/
+<img src="brickwall.jpg" draggable="true" id="brickwall" width="250" height="400"
 ongragstart="drag(event)"/>
 <br/>
 >
