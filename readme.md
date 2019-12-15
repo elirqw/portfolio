@@ -11,13 +11,13 @@
 	<h1 class="center">PORTFOLIO THING OF ELISA AHO</h1>
 	<hr>
 	<p class="center">Hi :) This is my portfolio kind of thing. 
-		(But really it's for showing off what I learned during our WWW course.)
+		(But really it's for showing off what I learned during our WWW course. It's awesome, believe me.)
 	</p>
 <hr>	
 
 <h1 class="center">WORK</h1>
 <hr>
-
+Here are some examples from my ArtStation!
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/525/large/elisa-aho-intimidating-fixed-signed.jpg?1543507482"
 width="30%"/>
 <img src="https://cdnb.artstation.com/p/assets/images/images/014/328/891/large/elisa-aho-releaseyourdemons2signed.jpg?1543508911"
@@ -38,7 +38,7 @@ width="30%"/>
 
 <h1 class="center">CONTACT</h1>
 <hr>
-<p class="center">My contact information as well as my social media can be found here.
+<p class="center">My contact information as well as my social media can be found here!
 
 <p><h4>CONTACT</h4></p>
 <ul>
@@ -71,6 +71,8 @@ Message: <input type="text" name="message" /><br/>
 </form>	
 
 <hr>
+
+We Are Here
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=27.50186920166016%2C64.15897999356237%2C27.95505523681641%2C64.29541976266103&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=12/64.2273/27.7285">Näytä isommalla kartalla</a></small>
 
