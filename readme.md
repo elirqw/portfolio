@@ -110,7 +110,11 @@ ondragstart="drag(event)"/>
 <br/>
 <div ondragover="permitdrop(event)" ondrop="drop(event)" style="background-color: black; width:250px; height:400px"></div>
 	
-
+Now blow it up!
+<audio controls="controls">
+<source src="Chunky Exlposion.mp3"
+type="audio/mp3"/>
+</audio>
 
 </body>
 </html>
