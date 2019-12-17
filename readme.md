@@ -86,7 +86,7 @@ We Are Here
 
 <hr>
 
-Drag this wall for me
+Drag this wall for me<br/>
 
 <script>
 function drop(event)
