@@ -112,8 +112,8 @@ ondragstart="drag(event)"/>
 	
 Now blow it up!<br/>
 <audio controls="controls">
-<source src="Chunky Exlposion.mp3"
-type="audio/mp3"/>
+<source src="explosion.wav"
+type="audio/wav"/>
 </audio>
 
 </body>
